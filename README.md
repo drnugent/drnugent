@@ -6,7 +6,7 @@ There is **no time** for **fun**, coding is **serious business for serious peopl
 
 🦥 I love giving talks, especially interactive workshops. You can find a lot of these on the [IBM Developer crowdcast channel](https://www.crowdcast.io/ibmdeveloper).
 
-🦥 Maybe you're here looking for [a presentation I gave](https://github.com/drnugent/presentations) or notes for [a workshop I'm currently giving](https://github.com/drnugent/presentations) -- I gotchu covered.
+🦥 Are you looking for [a presentation I gave](https://github.com/drnugent/presentations) or notes for [a workshop I'm giving](https://github.com/drnugent/presentations)?
 
 🦥 I love to write! 🖍️ These days I mostly write on the [IBM Developer blog](https://developer.ibm.com/profiles/drnugent/) and [dev.to](https://dev.to/drnugent) but you can also find older articles on [Medium](https://medium.com/@drnugent) and various company blogs.
 
