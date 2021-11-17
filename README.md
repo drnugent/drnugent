@@ -12,7 +12,9 @@ There is **no time** for **fun**, coding is **serious business for serious peopl
 
 🦥 I write about topics from [Chatbot-driven Machine Learning](https://www.twilio.com/blog/what-framework-are-you-watson-autopilot) to [1960s drum memory computers](https://www.freecodecamp.org/news/macho-programmers-drum-memory-and-a-forensic-analysis-of-1960s-machine-code-6c5da6a40244/).
 
-🦥 Even though I'm originally from 🗽 New York, I live in 🌉 San Francisco, because while I enjoy paying too much for rent, I also like to pay too much for food.
+🦥 I like to edit posts on [StackOverflow](https://stackoverflow.com/users/3417617/drnugent). If I've edited your post and you don't like it, sorry about that!
+
+🦥 Even though I'm originally from 🗽 New York, I live in 🌉 San Francisco, because while I enjoy paying too much for rent, I *also* like to pay too much for food.
 
 🦥 My pronouns are he/him, although I don't care if you refer to me as David or Dave. Only my boss gets to refer to me as "Hey you!"
 
