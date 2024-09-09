@@ -1,24 +1,18 @@
-### Welcome to my very serious GitHub profile
+### Welcome to my GitHub profile
 
-There is **no time** for **fun**, coding is **serious business for serious people**
+🦥 I love building LLM-based solutions for IBM technology partners.
 
-![Family Guy animated gif of character typing with long press-on nails](https://media3.giphy.com/media/YAnpMSHcurJVS/200.webp?cid=ecf05e4752b359db0b223cde08a228f8dc9cdb3a5d3c4354&rid=200.webp)
+📫 Even though I'm originally from 🗽 New York, I live in 🌉 San Francisco, because while I enjoy paying too much for rent, I *also* like to pay too much for food.
 
-🦥 I love giving talks, especially interactive workshops. You can find a lot of these on the [IBM Developer crowdcast channel](https://www.crowdcast.io/ibmdeveloper).
+😄 My pronouns are he/him
 
-🦥 Are you looking for [a presentation I gave](https://github.com/drnugent/presentations) or notes for [a workshop I'm giving](https://github.com/drnugent/presentations)?
+🌱 I like to edit posts on [StackOverflow](https://stackoverflow.com/users/3417617/drnugent).
 
-🦥 I love to write! 🖍️ These days I mostly write on the [IBM Developer blog](https://developer.ibm.com/profiles/drnugent/) and [dev.to](https://dev.to/drnugent) but you can also find older articles on [Medium](https://medium.com/@drnugent) and various company blogs.
+🦥 Archive: Are you looking for [a presentation I gave](https://github.com/drnugent/presentations) or notes for [a workshop I'm giving](https://github.com/drnugent/presentations)?
 
-🦥 I write about topics from [Chatbot-driven Machine Learning](https://www.twilio.com/blog/what-framework-are-you-watson-autopilot) to [1960s drum memory computers](https://www.freecodecamp.org/news/macho-programmers-drum-memory-and-a-forensic-analysis-of-1960s-machine-code-6c5da6a40244/).
 
-🦥 I like to edit posts on [StackOverflow](https://stackoverflow.com/users/3417617/drnugent). If I've edited your post and you don't like it, sorry about that!
 
-🦥 Even though I'm originally from 🗽 New York, I live in 🌉 San Francisco, because while I enjoy paying too much for rent, I *also* like to pay too much for food.
-
-🦥 My pronouns are he/him, although I don't care if you refer to me as David or Dave. Only my boss gets to refer to me as "Hey you!"
-
-🦥 [You can reach me on 🐦Twitter](https://twitter.com/drnugent), my DM's are open.
+⚡ Fun fact: Donuts are healthy (for certain definitions of "healthy")
 
 <!--
 **drnugent/drnugent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
